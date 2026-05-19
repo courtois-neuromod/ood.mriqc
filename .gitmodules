@@ -2,3 +2,7 @@
 	path = containers
 	url = https://github.com/ReproNim/containers.git
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+[submodule "sourcedata/ood"]
+	path = sourcedata/ood
+	url = git@github.com:courtois-neuromod/ood
+	datalad-id = f2040046-a06f-455a-b692-6070ea0ed94c
